@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋,Nice to see you !! </h1>
-<h2 align="center">Welcome to Shiwani's GitWorld 🌍. </h2>
+<h2 align="center">Welcome to Shiwani's GitWorld 🌍💫. </h2>
 <h3 align="center">A passionate frontend developer and a UI/UX Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwani322004&label=Profile%20views&color=0e75b6&style=flat" alt="shiwani322004" /> </p>
