@@ -362,7 +362,7 @@ Postman               █████████░░░ 82%
 
 ---
 
-## 🎮 Pac-Man Eating My Contributions!
+## 🎮 Loving My Contributions!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man eating contributions" />
@@ -370,15 +370,14 @@ Postman               █████████░░░ 82%
 
 <div align="center">
   
-*Watch Pac-Man gobble up all my contributions!* 🎮💜
-
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Coding Girl" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </div>
+
 
 <br/>
 
