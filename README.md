@@ -1,3 +1,4 @@
+
 <h1 align="center">✨ Welcome to Shiwani's GitWorld 🌍</h1>
 
 <div align="center">
@@ -51,9 +52,9 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 
 <div align="center">
 
-| 🔥 Projects | 📱 Websites | 🎨 UI Components | ⭐ Satisfaction | 📈 Engagement Boost |
-|:-----------:|:-----------:|:----------------:|:---------------:|:-------------------:|
-| **50+** | **15+** | **25+** | **95%+** | **40%** |
+| 🔥 Projects | 📱 Websites | 🎨 UI Components | ⭐ Client Satisfaction | 📈 Learning Progress |
+|:-----------:|:-----------:|:----------------:|:----------------------:|:--------------------:|
+| **20+** | **10+** | **15+** | **100%** | **Growing Daily!** |
 
 </div>
 
@@ -74,7 +75,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ### 🎨 Frontend Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,redux" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" alt="Frontend Skills" />
 </p>
 
 <div align="center">
@@ -83,26 +84,23 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
 ### ⚙️ Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,dotnet,mysql,oracle,redis" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,redis" alt="Backend Skills" />
 </p>
 
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
@@ -110,23 +108,35 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" alt="Programming Languages" />
 </p>
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+### 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react" alt="Mobile Development" />
+</p>
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
 ### 🎨 Design & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,vscode,git,github,postman,aws,vercel,netlify" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,vscode,git,github,postman" alt="Tools" />
 </p>
 
 <div align="center">
@@ -137,9 +147,6 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
@@ -167,7 +174,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="400" alt="Coding Girl" />
 </div>
 
 <br/>
@@ -181,7 +188,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ## 💼 Skills & Expertise
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Girl" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" alt="Girl with Laptop" />
 </div>
 
 <br/>
@@ -195,26 +202,43 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 HTML5                 ████████████ 95%
 CSS3                  ███████████░ 92%
 JavaScript            ██████████░░ 88%
-React.js              █████████░░░ 80%
+React.js              ████████░░░░ 75%
 Responsive Design     ████████████ 96%
 UI/UX Design          ██████████░░ 90%
-Bootstrap             █████████░░░ 85%
+Bootstrap             ██████████░░ 90%
 Figma                 █████████░░░ 87%
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend & Languages
+### ⚙️ Backend & Databases
 ```
 Node.js               ████████░░░░ 70%
-PHP                   ████████░░░░ 75%
+MongoDB               ████████░░░░ 72%
+Redis                 ██████░░░░░░ 60%
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Programming Languages
+```
+JavaScript            ██████████░░ 88%
 Python                █████████░░░ 78%
-MySQL                 ████████░░░░ 72%
 Java                  █████████░░░ 80%
-C/C++                 ██████████░░ 85%
-.NET                  ███████░░░░░ 65%
-Oracle                ███████░░░░░ 60%
+C++                   ██████████░░ 85%
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile Development
+```
+React Native          ████████░░░░ 75%
+Flutter               ███████░░░░░ 70%
 ```
 
 </td>
@@ -227,11 +251,9 @@ Oracle                ███████░░░░░ 60%
 Content Writing       ████████████ 95%
 Public Speaking       ██████████░░ 88%
 Idea Delivery         ███████████░ 92%
-Project Management    █████████░░░ 82%
 Team Collaboration    ██████████░░ 90%
 Problem Solving       ███████████░ 94%
 Creative Thinking     ████████████ 96%
-User Research         █████████░░░ 80%
 ```
 
 </td>
@@ -244,9 +266,6 @@ VS Code               ████████████ 95%
 Figma                 █████████░░░ 87%
 Adobe XD              ████████░░░░ 75%
 Postman               █████████░░░ 82%
-AWS                   ███████░░░░░ 65%
-Mobile Development    █████████░░░ 78%
-Database Design       ████████░░░░ 72%
 ```
 
 </td>
@@ -264,12 +283,12 @@ Database Design       ████████░░░░ 72%
 <br/>
 
 ```
-2020  🌱 Started my journey with HTML & CSS
-2021  💻 Mastered JavaScript & Responsive Design
-2022  ⚛️  Explored React.js & Modern Frameworks
-2023  🚀 Built 50+ projects & Enhanced UI/UX skills
-2024  🌟 Contributing to open source & Mentoring
-2025  💫 Mastering Advanced React & System Design
+2022  🌱 Started my journey with HTML & CSS
+2023  💻 Mastered JavaScript & Responsive Design
+2024  ⚛️  Exploring React.js & Modern Frameworks
+2024  🚀 Building real-world projects & Learning UI/UX
+2025  🌟 Contributing to open source & Mastering Frontend
+2025  💫 Diving into Advanced React & Full Stack Development
 ```
 
 ---
@@ -277,7 +296,17 @@ Database Design       ████████░░░░ 72%
 ## 💭 My Philosophy
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌸 What I Believe In
+
+**"Every great developer started as a beginner who never gave up"**
+
 </div>
 
 <br/>
@@ -298,6 +327,7 @@ Database Design       ████████░░░░ 72%
 - 🧩 **Creative Problem Solving** - Find innovative solutions to complex challenges
 - 🤝 **Collaborative Spirit** - Great products are built by great teams
 - 🌍 **Making Impact** - Contributing to projects that make a positive difference
+- 💪 **Growth Mindset** - Embrace challenges and learn from every experience
 
 ---
 
@@ -328,7 +358,7 @@ Database Design       ████████░░░░ 72%
 
 ### 💬 Let's Chat About
 
-**Frontend Development** • **UI/UX Design** • **React.js** • **Web Performance** • **Open Source** • **Tech Trends**
+**Frontend Development** • **UI/UX Design** • **React.js** • **Web Development** • **Learning Journey** • **Tech Trends**
 
 </div>
 
@@ -343,7 +373,7 @@ Database Design       ████████░░░░ 72%
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Coding Girl" />
 </div>
 
 <br/>
@@ -363,7 +393,11 @@ Database Design       ████████░░░░ 72%
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+Visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6BCB&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting!+%E2%9C%A8;Let's+Build+Something+Amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%96" alt="Animated Thanks" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -372,5 +406,5 @@ Database Design       ████████░░░░ 72%
 <div align="center">
   <sub>💜 Crafted with passion by <a href="https://github.com/shiwani322004">Shiwani Devi</a> | ⭐ Star this repo if you like it!</sub>
   <br/>
-  <sub>📅 Last Updated: October 2025 | 🎨 Always Evolving</sub>
+  <sub>📅 Last Updated: October 2025 | 🎨 Always Evolving | 🌱 Growing Every Day</sub>
 </div>
