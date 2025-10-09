@@ -1,4 +1,3 @@
-
 <h1 align="center">✨ Welcome to Shiwani's GitWorld 🌍</h1>
 
 <div align="center">
@@ -155,7 +154,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 </div>
 
 <br/>
@@ -174,7 +173,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="400" alt="Coding Girl" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="Coding Girl with Glasses" />
 </div>
 
 <br/>
@@ -188,7 +187,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ## 💼 Skills & Expertise
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" alt="Girl with Laptop" />
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500" alt="Girl Coding" />
 </div>
 
 <br/>
@@ -277,7 +276,7 @@ Postman               █████████░░░ 82%
 ## 🎯 My Development Journey
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
 <br/>
@@ -296,7 +295,7 @@ Postman               █████████░░░ 82%
 ## 💭 My Philosophy
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
 </div>
 
 <br/>
@@ -364,10 +363,16 @@ Postman               █████████░░░ 82%
 
 ---
 
-## 🎮 GitHub Contribution Game
+## 🎮 Pac-Man Eating My Contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Game" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man eating contributions" />
+</div>
+
+<div align="center">
+  
+*Watch Pac-Man gobble up all my contributions!* 🎮💜
+
 </div>
 
 ---
