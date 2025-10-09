@@ -174,7 +174,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="Coding Girl with Glasses" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Projects Animation" />
 </div>
 
 <br/>
