@@ -37,7 +37,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 - 💼 Check out my [Portfolio](https://shiwani322004.github.io/Portfolio_meet/)
 - 💬 Ask me about **HTML/CSS, Frontend Design, UI/UX, Content Writing**
 - 📧 Reach me at **shiwanid078@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code and ideas into interfaces!** ☕💻
+- ⚡ Fun fact: **"Code is like humor. When you have to explain it, it’s bad."** ☕💻
 
 ### 🎯 My Superpowers
 
