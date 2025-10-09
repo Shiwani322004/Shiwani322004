@@ -296,8 +296,7 @@ Postman               █████████░░░ 82%
 ## 💭 My Philosophy
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="Coding Girl with Glasses" />
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br/>
 
 <div align="center">
