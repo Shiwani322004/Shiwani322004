@@ -365,7 +365,7 @@ Postman               █████████░░░ 82%
 ## 🎮 Loving My Contributions!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="200" alt="Fireworks" />
+  <img src="https://media.giphy.com/media/hvGKQL8lasDvIlWRBC/giphy.gif" width="150" alt="Party Popper" />
 </div>
 
 <div align="center">
