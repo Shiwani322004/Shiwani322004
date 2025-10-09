@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Hey there! I'm **Shiwani Devi**, a passionate **Frontend Developer** and **UI/UX Designer** based in **Delhi, India** 🇮🇳
+Hey there! I'm **Shiwani Devi**, a passionate **Frontend Developer** and **UI/UX Designer** based in **Jhansi, India** 🇮🇳
 
 I love creating beautiful, intuitive, and user-friendly web experiences that make a difference. My journey in web development is driven by creativity, curiosity, and a commitment to excellence.
 
@@ -54,7 +54,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 
 | 🔥 Projects | 📱 Websites | 🎨 UI Components | ⭐ Client Satisfaction | 📈 Learning Progress |
 |:-----------:|:-----------:|:----------------:|:----------------------:|:--------------------:|
-| **20+** | **10+** | **15+** | **100%** | **Growing Daily!** |
+| **10+** | **10+** | **15+** | **100%** | **Growing Daily!** |
 
 </div>
 
@@ -295,8 +295,8 @@ Postman               █████████░░░ 82%
 
 ## 💭 My Philosophy
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+<div align="center" style="margin: 50px 0;">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" style="transform: rotate(-90deg);">
 </div>
 
 <br/>
