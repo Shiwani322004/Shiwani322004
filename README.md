@@ -190,7 +190,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 <div align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
-    width="200" 
+    width="300" 
     height="300" 
     alt="Girl Coding" 
   />
@@ -371,7 +371,10 @@ Postman               █████████░░░ 82%
 ## 🎮 Loving My Contributions!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Sparkle" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Sparkle" 
+    height=600
+    width=600
+    />
 </div>
 
 <div align="center">
