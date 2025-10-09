@@ -391,7 +391,7 @@ Postman               █████████░░░ 82%
 
 <div align="center">
 
-### 🌟 *"Turning caffeine into code, ideas into interfaces, and dreams into digital reality"* ☕💻✨
+### 🌟*"Behind every great software, there’s a mind that refused to quit."* ☕💻✨
 
 <br/>
 
