@@ -410,5 +410,5 @@ Postman               █████████░░░ 82%
 <div align="center">
   <sub>💜 Crafted with passion by <a href="https://github.com/shiwani322004">Shiwani Devi</a> | ⭐ Star this repo if you like it!</sub>
   <br/>
-  <sub>📅 Last Updated: October 2025 | 🎨 Always Evolving | 🌱 Growing Every Day</sub>
+  <sub>🎨 Always Evolving | 🌱 Growing Every Day</sub>
 </div>
