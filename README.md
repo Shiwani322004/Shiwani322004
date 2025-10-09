@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ---
 
-## 🌸 About Me
+## 👩‍💻 About Me
 
 <img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -61,7 +61,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 
 ---
 
-## 🛠️ Tech Arsenal & Creative Tools
+## 🛠️ My Tech Stack
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
@@ -145,7 +145,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 
 ---
 
-## 📊 GitHub Statistics & Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -160,12 +160,17 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwani322004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6BCB&text_color=FFFFFF" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=shiwani322004&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6BCB&text_color=FFFFFF" alt="Top Contributed Repos"/>
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding Animation" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiwani322004&custom_title=Shiwani's%20GitHub%20Contribution%20Journey&hide_border=true&border_radius=15&bg_color=0D1117&color=FFB347&line=FF6BCB&point=FFFFFF&area_color=FF6BCB&title_color=FFFFFF&area=true" alt="Contribution Graph" width="98%"/>
@@ -173,10 +178,10 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 
 ---
 
-## 💼 Skills & Expertise Matrix
+## 💼 Skills & Expertise
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Skills Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Girl" />
 </div>
 
 <br/>
@@ -250,119 +255,10 @@ Database Design       ████████░░░░ 72%
 
 ---
 
-## 🏆 Featured Projects Showcase
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Personal Portfolio Website
-**Tech Stack:** HTML5, CSS3, JavaScript, Responsive Design
-
-**Features:**
-- ✨ Modern, clean professional design
-- 📱 Fully responsive across all devices
-- ⚡ Optimized performance & fast loading
-- 🎯 Interactive UI with smooth animations
-- 📊 Contact forms & social integration
-- 🔍 SEO optimized
-
-**Impact:** Professional online presence with engaging UX
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6BCB?style=for-the-badge&logo=vercel&logoColor=white)](https://shiwani322004.github.io/Portfolio_meet/)
-[![View Code](https://img.shields.io/badge/👨‍💻_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</div>
-
-</td>
-<td width="50%">
-
-### 📊 Interactive Dashboard
-**Tech Stack:** HTML5, CSS3, JavaScript, Chart.js
-
-**Features:**
-- 📈 Dynamic data visualization
-- 🎨 Modern card-based layout
-- 📱 Mobile-first approach
-- 🔄 Real-time data updates
-- 🎯 User-friendly navigation
-- 📊 Multiple chart types
-
-**Impact:** Enhanced data presentation & engagement
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6BCB?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![View Code](https://img.shields.io/badge/👨‍💻_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 E-commerce Landing Page
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
-
-**Features:**
-- 🎨 Attractive product showcase
-- 📱 Mobile-optimized shopping
-- 💳 Integrated contact forms
-- 🔍 Advanced filtering & search
-- ⚡ Fast loading animations
-- 📊 Analytics ready
-
-**Impact:** Increased user engagement & conversions
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6BCB?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![View Code](https://img.shields.io/badge/👨‍💻_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</div>
-
-</td>
-<td width="50%">
-
-### 📱 React Learning Projects
-**Tech Stack:** React.js, JavaScript, CSS3, JSX
-
-**Features:**
-- ⚛️ Component-based architecture
-- 🔄 State management & hooks
-- 📱 Responsive components
-- 🎯 Interactive interfaces
-- 🔧 Modern ES6+ features
-- 📊 API integration
-
-**Impact:** Mastering modern frontend development
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6BCB?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![View Code](https://img.shields.io/badge/👨‍💻_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎯 My Development Journey
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
 <br/>
@@ -378,18 +274,23 @@ Database Design       ████████░░░░ 72%
 
 ---
 
-## 💭 Philosophy & Core Values
+## 💭 My Philosophy
 
 <div align="center">
-
-> ### *"Design is not just what it looks like and feels like. Design is how it works."*
-> #### — Steve Jobs
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
 <br/>
 
-### 🎯 What Drives Me
+<div align="center">
+
+### 🎯 Core Values
+
+**User-Centered Design** • **Clean Code** • **Continuous Learning** • **Creative Problem Solving** • **Collaborative Spirit**
 
 </div>
+
+<br/>
 
 - 🎨 **User-Centered Design** - Always prioritize user experience and accessibility
 - 💻 **Clean Code** - Write maintainable, readable, and scalable code
@@ -400,7 +301,7 @@ Database Design       ████████░░░░ 72%
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -433,29 +334,32 @@ Database Design       ████████░░░░ 72%
 
 ---
 
-## 🎮 Pac-Man Eats My Contributions!
+## 🎮 GitHub Contribution Game
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shiwani322004/shiwani322004/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
-</div>
-
-<div align="center">
-  
-*Note: If the animation doesn't load, it's because Pac-Man is still hungry for more contributions!* 😄
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Game" />
 </div>
 
 ---
 
 <div align="center">
-
-### 🌟 *"Turning caffeine into code, ideas into interfaces, and dreams into digital reality"* ☕💻✨
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 <br/>
 
-### 🚀 Fun Fact About Me
+<div align="center">
 
-**I believe every pixel matters, every user interaction counts, and every line of code tells a story!**
+> ### *"Design is not just what it looks like and feels like. Design is how it works."*
+> #### — Steve Jobs
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌟 *"Turning caffeine into code, ideas into interfaces, and dreams into digital reality"* ☕💻✨
 
 <br/>
 
