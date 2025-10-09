@@ -365,7 +365,7 @@ Postman               █████████░░░ 82%
 ## 🎮 Loving My Contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man eating contributions" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation" />
 </div>
 
 <div align="center">
