@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="500">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding Girl" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hxamg3Y3VvMjVjdmJvYWQ5NHU5NWlob3Y5aTd2N2p1d3hrZXBpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Hey there! I'm **Shiwani Devi**, a passionate **Frontend Developer** and **UI/UX Designer** based in **Delhi, India** 🇮🇳
 
@@ -65,7 +65,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ## 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGF3ZmhyNjZuejBhcHFya2Y2bXppMzZqbnE0ZnFqNG5lZDg0YzFwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
   <br/>
   <i>Technologies I Love Working With</i>
 </div>
@@ -155,7 +155,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50" alt="Git">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 </div>
 
 <br/>
@@ -174,7 +174,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coder Girl" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="Coding Girl with Glasses" />
 </div>
 
 <br/>
@@ -188,7 +188,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 ## 💼 Skills & Expertise
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500" alt="Girl Coding" />
 </div>
 
 <br/>
@@ -277,7 +277,7 @@ Postman               █████████░░░ 82%
 ## 🎯 My Development Journey
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
 <br/>
@@ -296,7 +296,7 @@ Postman               █████████░░░ 82%
 ## 💭 My Philosophy
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
 </div>
 
 <br/>
@@ -334,7 +334,7 @@ Postman               █████████░░░ 82%
 ## 🌐 Let's Connect
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 <br/>
@@ -367,19 +367,19 @@ Postman               █████████░░░ 82%
 ## 🎮 Pac-Man Eating My Contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation Dark" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pac-Man eating contributions" />
 </div>
 
 <div align="center">
   
-*Watch the magic happen!* 🎮💜
+*Watch Pac-Man gobble up all my contributions!* 🎮💜
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" alt="Sparkle" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Coding Girl" />
 </div>
 
 <br/>
@@ -401,9 +401,9 @@ Postman               █████████░░░ 82%
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6BCB&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting!+%E2%9C%A8;Let's+Build+Something+Amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%96" alt="Animated Thanks" />
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
