@@ -365,7 +365,7 @@ Postman               █████████░░░ 82%
 ## 🎮 Loving My Contributions!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Sparkle" />
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="200" alt="Fireworks" />
 </div>
 
 <div align="center">
