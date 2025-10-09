@@ -1,164 +1,195 @@
-# 👋 Hi, I'm Shiwani Devi
+# Hi there, I'm Shiwani Devi 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=45&fontAlignY=35&desc=Frontend%20Developer%20|%20UI/UX%20Designer%20|%20Creative%20Problem%20Solver&descAlignY=55&descAlign=center&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Building+Beautiful+Digital+Experiences;Passionate+About+Clean+Code+%26+Great+Design" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎨+Frontend+Developer+%26+UI/UX+Designer;💻+HTML+CSS+JavaScript+Specialist;⚛️+React.js+%26+Modern+Web+Enthusiast;📱+Responsive+Design+Expert;🌟+Creative+Problem+Solver;⚡+Always+Learning+%26+Building+Magic;🎯+User+Experience+Focused;🌍+Building+Beautiful+Solutions&font=Fira%20Code&center=true&width=900&height=65&color=00d9a6&vCenter=true&size=24&pause=1000&multiline=true" alt="Typing Animation" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shiwani322004&label=Profile%20Views&color=0&icon=5&pretty=true" />
-  <img src="https://img.shields.io/github/followers/shiwani322004?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/shiwani322004?label=Profile%20Stars&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=shiwani322004&color=00d9a6&style=flat-square&label=PROFILE+VIEWS" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shiwani322004&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shiwani322004?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Available%20For%20Collaboration-success?style=for-the-badge" alt="Status" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🌸 About Me
 
-<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 💫 **Current Status**
-- 🔭 **Focus:** Frontend Development with HTML, CSS, JavaScript
-- 🌱 **Learning:** Advanced JavaScript and React.js
-- 👯 **Collaborating:** Innovative Web Development Projects
-- 💬 **Expertise:** HTML/CSS, Frontend Design, UI/UX, Content Writing
-- 📧 **Contact:** [shiwanid078@gmail.com](mailto:shiwanid078@gmail.com)
-- 🌐 **Portfolio:** [shiwani322004.github.io/Portfolio_meet/](https://shiwani322004.github.io/Portfolio_meet/)
-- ⚡ **Superpower:** Creating pixel-perfect responsive designs that users love
-- 🎯 **Mission:** Building beautiful, accessible web experiences
-- 🏆 **Passion:** Turning design ideas into interactive reality
+```javascript
+const shiwani = {
+    pronouns: "she" | "her",
+    location: "Delhi, India",
+    role: "Frontend Developer & UI/UX Designer",
+    currentFocus: "Advanced JavaScript & React.js",
+    languages: ["JavaScript", "HTML", "CSS", "Python", "Java", "C++"],
+    frameworks: ["React", "Bootstrap", "React Native", "Flutter"],
+    tools: ["Figma", "VS Code", "Git", "GitHub"],
+    architecture: ["Responsive Design", "Component-Based"],
+    motto: "Design with purpose, build with passion",
+    workingOn: "Building accessible web experiences",
+    openTo: "Collaboration on innovative projects"
+};
+```
 
-### 🌈 **Fun Facts & Personality**
-- 🎨 Love creating unique UI designs and interactive experiences
-- 🎵 Code better with ambient music and creative playlists
-- 🌟 Detail-oriented developer who loves perfecting every pixel
-- ☕ Creative-driven development with inspiration from everywhere
-- 🤝 Enthusiastic about mentoring and sharing design knowledge
-- 🧩 UX problem-solving enthusiast who loves user-centered challenges
-- 📚 Continuous learner exploring new design trends and technologies
-- 🌟 Believe in "Design with purpose, build with passion"
+### 💡 What I Bring to the Table
 
-### 📊 **Quick Stats**
-- 🔥 **50+** projects completed across various domains
-- 🚀 **15+** responsive websites designed and developed
-- 💼 **25+** UI components created and optimized
-- ⭐ **95%+** client satisfaction with design work
-- 📈 **40%** average user engagement improvement achieved
-- 🎯 **100%** mobile-responsive design delivery rate
+- 🎨 **Design Excellence** - Creating pixel-perfect, user-centered interfaces
+- 💻 **Technical Proficiency** - Strong foundation in modern web technologies
+- 📱 **Responsive Mastery** - 100% mobile-responsive design delivery
+- ✍️ **Content Creation** - Technical writing and documentation expertise
+- 🤝 **Team Player** - Collaborative approach to problem-solving
+- 🚀 **Growth Mindset** - Continuously learning and adapting
+
+### 📊 Impact Metrics
+
+<div align="center">
+
+| Metric | Achievement |
+|:------:|:-----------:|
+| 🔥 Projects Completed | **50+** |
+| 📱 Responsive Websites | **15+** |
+| 🎨 UI Components Created | **25+** |
+| ⭐ Client Satisfaction | **95%+** |
+| 📈 User Engagement Boost | **40%** |
+
+</div>
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal & Creative Tools
+## 🛠️ Technology Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Tech Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
-### 🎨 Frontend Magic
-<div align="center">
-  
-| Core Technologies | Frameworks & Libraries | Styling & Design | Tools & Utilities |
-|:-----------------:|:----------------------:|:----------------:|:----------------:|
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00d9a6?style=for-the-badge&logo=css3&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+### Frontend Technologies
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
 
-### ⚙️ Backend & Database Technologies
-<div align="center">
-  
-| Server Technologies | Databases | Mobile Development | Programming Languages |
-|:-------------------:|:---------:|:-----------------:|:--------------------:|
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+### Backend & Database
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
-### 🛠️ Development Tools & Design Software
-<div align="center">
+### Programming Languages
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-</div>
+### Design & Development Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
 
 ---
 
-## 💼 Skills Proficiency & Expertise Matrix
+## 📈 Skills & Expertise
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Skills Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </div>
 
-### 💻 Technical Skills Breakdown
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎨 Frontend & Design
-HTML5 ██████████ 95%
-CSS3 ██████████ 92%
-JavaScript █████████░ 88%
-React.js ████████░░ 80%
-Responsive Design ██████████ 96%
-UI/UX Design █████████░ 90%
-Bootstrap ████████░░ 85%
-Figma ████████░░ 87%
+```text
+HTML5                 ████████████ 95%
+CSS3                  ███████████  92%
+JavaScript            ██████████   88%
+React.js              █████████    80%
+Responsive Design     ████████████ 96%
+UI/UX Design          ██████████   90%
+Bootstrap             █████████    85%
+Figma                 █████████    87%
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Backend & Languages
-Node.js ███████░░░ 70%
-PHP ████████░░ 75%
-Python ████████░░ 78%
-MySQL ███████░░░ 72%
-Java ████████░░ 80%
-C/C++ █████████░ 85%
-.NET ██████░░░░ 65%
-Oracle ██████░░░░ 60%
+```text
+Node.js               ████████     70%
+PHP                   ████████     75%
+Python                █████████    78%
+MySQL                 ████████     72%
+Java                  █████████    80%
+C/C++                 ██████████   85%
+.NET                  ███████      65%
+Oracle                ███████      60%
+```
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 Creative & Communication
-Content Writing ██████████ 95%
-Public Speaking █████████░ 88%
-Idea Delivery ██████████ 92%
-Project Management ████████░░ 82%
-Team Collaboration █████████░ 90%
-Problem Solving ██████████ 94%
-Creative Thinking ██████████ 96%
-User Research ████████░░ 80%
+### 💼 Professional Skills
+```text
+Content Writing       ████████████ 95%
+Public Speaking       ██████████   88%
+Idea Delivery         ███████████  92%
+Project Management    █████████    82%
+Team Collaboration    ██████████   90%
+Problem Solving       ███████████  94%
+Creative Thinking     ████████████ 96%
+User Research         █████████    80%
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛠️ Tools & Technologies
-Git/GitHub █████████░ 88%
-VS Code ██████████ 95%
-Figma ████████░░ 87%
-Adobe XD ███████░░░ 75%
-Postman ████████░░ 82%
-AWS ██████░░░░ 65%
-Mobile Development ███████░░░ 78%
-Database Design ███████░░░ 72%
+### 🛠️ Tools & Tech
+```text
+Git/GitHub            ██████████   88%
+VS Code               ████████████ 95%
+Figma                 █████████    87%
+Adobe XD              ████████     75%
+Postman               █████████    82%
+AWS                   ███████      65%
+Mobile Development    █████████    78%
+Database Design       ████████     72%
+```
 
 </td>
 </tr>
@@ -166,172 +197,98 @@ Database Design ███████░░░ 72%
 
 ---
 
-## 🏆 Featured Projects Portfolio
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Projects Animation" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shiwani322004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shiwani322004&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Personal Portfolio Website
-**🛠️ Tech Stack:** HTML5, CSS3, JavaScript, Responsive Design  
-**✨ Key Features:**
-- 🎨 Modern, clean, and professional design
-- 📱 Fully responsive across all devices
-- ⚡ Optimized performance and fast loading
-- 🎯 Interactive UI elements and animations
-- 📊 Contact forms and social integration
-- 🔍 SEO optimized for better visibility
-
-**🎯 Impact:** Professional online presence with engaging UX
-
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-00d9a6?style=for-the-badge&logo=vercel&logoColor=white)](https://shiwani322004.github.io/Portfolio_meet/)
-[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### 📊 Interactive Dashboard
-**🛠️ Tech Stack:** HTML5, CSS3, JavaScript, Chart.js  
-**✨ Key Features:**
-- 📈 Dynamic data visualization
-- 🎨 Modern card-based design layout
-- 📱 Mobile-first responsive approach
-- 🔄 Real-time data updates
-- 🎯 User-friendly navigation
-- 📊 Multiple chart types and filters
-
-**🎯 Impact:** Enhanced data presentation and user engagement
-
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-00d9a6?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 E-commerce Landing Page
-**🛠️ Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap  
-**✨ Key Features:**
-- 🎨 Attractive product showcase design
-- 📱 Mobile-optimized shopping experience  
-- 💳 Integrated contact forms
-- 🔍 Advanced filtering and search
-- ⚡ Fast loading and smooth animations
-- 📊 Analytics and user tracking ready
-
-**🎯 Impact:** Increased user engagement and conversion rates
-
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-00d9a6?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### 📱 React Learning Projects
-**🛠️ Tech Stack:** React.js, JavaScript, CSS3, JSX  
-**✨ Key Features:**
-- ⚛️ Component-based architecture
-- 🔄 State management and hooks
-- 📱 Responsive React components
-- 🎯 Interactive user interfaces
-- 🔧 Modern JavaScript ES6+ features
-- 📊 API integration and data handling
-
-**🎯 Impact:** Mastering modern frontend development
-
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-00d9a6?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics & Performance
-
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Analytics Animation" />
-</div>
-
-### 📈 GitHub Statistics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiwani322004&show_icons=true&count_private=true&hide_border=true&title_color=00d9a6&icon_color=00d9a6&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwani322004&layout=compact&hide_border=true&title_color=00d9a6&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="Top Languages" />
-</div>
-
-### 🔥 Contribution Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiwani322004&theme=dark&hide_border=true&stroke=00d9a6&ring=00d9a6&fire=00d9a6&currStreakLabel=00d9a6" alt="GitHub Streak" />
-</div>
-
-### 🏆 Achievement Gallery
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiwani322004&theme=darkhub&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwani322004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiwani322004&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌐 Let's Connect
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yw1gyaN/giphy.gif" width="400" alt="Network Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-### 🤝 Let's Build Something Amazing Together!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shiwani322004.github.io/Portfolio_meet/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiwani-d-3594a7273/)
-[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiwanid078@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub_Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiwani322004)
-
-</div>
+<p align="center">
+  <a href="https://shiwani322004.github.io/Portfolio_meet/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shiwani-d-3594a7273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shiwanid078@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/shiwani322004">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 💭 Philosophy & Vision
+## 💭 My Philosophy
 
-> *"Design is not just what it looks like and feels like. Design is how it works."*
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
 
-### 🎯 **Core Values**
-- **User-Centered Design:** Always prioritize user experience and accessibility
-- **Clean Code:** Write maintainable, readable, and scalable code
-- **Continuous Learning:** Stay updated with latest technologies and design trends
-- **Creative Problem Solving:** Find innovative solutions to complex challenges
-- **Collaborative Spirit:** Great products are built by great teams
+<br/>
 
-### 🌟 **What Drives Me**
-- Creating beautiful, functional web experiences that users love
-- Learning cutting-edge technologies like React.js and advanced JavaScript
-- Building responsive designs that work perfectly across all devices
-- Writing content that educates and inspires other developers
-- Contributing to projects that make a positive impact
+> ### *"Design is not just what it looks like and feels like. Design is how it works."*
+> #### — Steve Jobs
+
+<br/>
+
+<div align="center">
+
+### 🎯 Core Values
+
+**User-Centered Design** • **Clean Code** • **Continuous Learning** • **Creative Problem Solving** • **Collaborative Spirit**
+
+</div>
+
+### 🌟 What Drives Me
+
+- 🎨 Creating beautiful, functional web experiences that users love
+- 📚 Learning cutting-edge technologies like React.js and advanced JavaScript  
+- 📱 Building responsive designs that work perfectly across all devices
+- ✍️ Writing content that educates and inspires other developers
+- 🌍 Contributing to projects that make a positive impact
+
+---
+
+## 🔥 Recent Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiwani322004&custom_title=Shiwani's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true" alt="Activity Graph" width="98%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 ---
 
 <div align="center">
   
-### 🎉 *"Thank you for visiting my profile!"*
-  
-**Feel free to explore my repositories and don't forget to ⭐ the ones you find interesting!**
+### ✨ Thank you for visiting! ✨
 
-*Let's connect and create something beautiful together! 🚀*
+**Let's connect and create something amazing together! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer Wave" />
+  <sub>⭐ From <a href="https://github.com/shiwani322004">shiwani322004</a> with 💜</sub>
 </div>
-
----
-
-**✨ Profile Status:** Actively Maintained | **🎨 Design:** Modern & Professional | **📅 Last Updated:** October 2025
