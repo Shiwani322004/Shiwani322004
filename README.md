@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shiwani D
+# 👋 Hi, I'm Shiwani Devi
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=45&fontAlignY=35&desc=Frontend%20Developer%20|%20UI/UX%20Designer%20|%20Creative%20Problem%20Solver&descAlignY=55&descAlign=center&animation=twinkling" />
