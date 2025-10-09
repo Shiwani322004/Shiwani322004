@@ -375,10 +375,8 @@ Postman               █████████░░░ 82%
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Skills Animation" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Projects Animation" />
 </div>
-
-
 
 <br/>
 
