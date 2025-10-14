@@ -171,20 +171,6 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Projects Animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiwani322004&custom_title=Shiwani's%20GitHub%20Contribution%20Journey&hide_border=true&border_radius=15&bg_color=0D1117&color=FFB347&line=FF6BCB&point=FFFFFF&area_color=FF6BCB&title_color=FFFFFF&area=true" alt="Contribution Graph" width="98%"/>
-</div>
-
----
-
 ## 💼 Skills & Expertise
 
 <div align="center">
