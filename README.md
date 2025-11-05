@@ -34,7 +34,7 @@ I love creating beautiful, intuitive, and user-friendly web experiences that mak
 - 🔭 Currently working with **HTML, CSS, JavaScript**
 - 🌱 Learning **Advanced JavaScript** and **React.js**
 - 👯 Open to collaborate on **Innovative Web Development Projects**
-- 💼 Check out my [Portfolio](https://shiwani322004.github.io/Portfolio_meet/)
+- 💼 Check out my [Portfolio](3-d-portfolio-eight-theta.vercel.app/)
 - 💬 Ask me about **HTML/CSS, Frontend Design, UI/UX, Content Writing**
 - 📧 Reach me at **shiwanid078@gmail.com**
 - ⚡ Fun fact: **"Code is like humor. When you have to explain it, it’s bad."** ☕💻
